@@ -6,6 +6,7 @@ public class AboutMe {
     
     public static void main(String[] args) {
 
+        //Entrada de informações pelo terminal 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
         System.out.println("Digite o seu Nome:");
