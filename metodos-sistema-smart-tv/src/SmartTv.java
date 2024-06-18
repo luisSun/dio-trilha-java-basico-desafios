@@ -1,4 +1,5 @@
 public class SmartTv {
+    //Atributos a nivel de classe
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
